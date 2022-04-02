@@ -1,0 +1,72 @@
+@font-face {
+	font-family: eighties-comeback;
+	src: url(https://files.jcink.net/uploads2/laurentesting41/EightiesComeback_Regular.otf);
+}
+
+@font-face {
+	font-family: eighties-comeback;
+        font-weight: 300;
+	src: url(https://files.jcink.net/uploads2/laurentesting41/EightiesComeback_Light.otf);
+}
+
+@font-face {
+	font-family: eighties-comeback;
+        font-weight: 600;
+	src: url(https://files.jcink.net/uploads2/laurentesting41/EightiesComeback_Bold.otf);
+}
+
+@font-face {
+	font-family: eighties-comeback;
+        font-weight: 700;
+	src: url(https://files.jcink.net/uploads2/laurentesting41/EightiesComeback_Black.otf);
+}
+
+@font-face {
+	font-family: eighties-condensed;
+	src: url(https://files.jcink.net/uploads2/laurentesting41/EightiesComeback_Black.otf);
+}
+
+@font-face {
+	font-family: eighties-condensed;
+  font-weight: 300;
+	src: url(https://files.jcink.net/uploads2/laurentesting41/EightiesComeback_LightCond.otf);
+}
+
+@font-face {
+	font-family: eighties-condensed;
+  font-weight: 600;
+	src: url(https://files.jcink.net/uploads2/laurentesting41/EightiesComeback_BoldCond.otf);
+}
+
+@font-face {
+	font-family: eighties-comeback-italic;
+  font-style: italic;
+	src: url(https://files.jcink.net/uploads2/laurentesting41/EightiesComebackIt_Regular.otf);
+}
+
+@font-face {
+	font-family: eighties-condensed-italic;
+  font-style: italic;
+	src: url(https://files.jcink.net/uploads2/laurentesting41/EightiesComebackIt_Condensed.otf);
+}
+
+@font-face {
+	font-family: eighties-comeback-italic;
+  font-style: italic;
+  font-weight: 300;
+	src: url(https://files.jcink.net/uploads2/laurentesting41/EightiesComebackIt_Light.otf);
+}
+
+@font-face {
+	font-family: eighties-comeback-italic;
+  font-style: italic;
+  font-weight: 600;
+	src: url(https://files.jcink.net/uploads2/laurentesting41/EightiesComebackIt_Bold.otf);
+}
+
+@font-face {
+	font-family: eighties-condensed-italic;
+  font-style: italic;
+  font-weight: 600;
+	src: url(https://files.jcink.net/uploads2/laurentesting41/EightiesComebackIt_BoldCond.otf);
+}
